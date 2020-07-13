@@ -1,1 +1,1 @@
-FORM mcr.microsoft.com/dotnet/core/runtime:3.1
+FORM mcr.microsoft.com/dotnet/core/runtime:2.2
